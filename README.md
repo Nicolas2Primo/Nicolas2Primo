@@ -19,6 +19,6 @@
 </div><br>
 
 <p align="center">
-<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
+<a href="https://Nicolas2Primo.wrapped.run"><b>My GitHub Wrapped</b></a>
   
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" section="header">
