@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03dca8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Nicolas;Seja+Bem-vindo+ao+meu+github!+:%29)](https://git.io/typing-svg)
 
@@ -5,7 +6,7 @@
 
 <p align="center">Atualmente trabalhando com essas linguagens</p>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Nic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nic-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nic-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,4 +22,4 @@
 <p align="center">
 <a href="https://Nicolas2Primo.wrapped.run"><b>My GitHub Wrapped</b></a>
   
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" section="header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=100&section=footer"/>
