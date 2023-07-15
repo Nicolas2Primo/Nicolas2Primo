@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">Atualmente trabalhando com essas linguagens</p>
+<p align="center">Atualmente trabalhando com essas linguagens/tecnologias</p>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Nic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
