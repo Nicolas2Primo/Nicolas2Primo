@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03dca8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Nicolas;Seja+Bem-vindo+ao+meu+github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03dca8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Nicolas;Seja+Bem-vindo+ao+meu+github!+:%29;Confira+abaixo+meu+portfólio!)](https://git.io/typing-svg)
+
+<a href="https://nicolasamazingportfolio.netlify.app/" target="_blank">Meu portfólio</a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
